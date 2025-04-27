@@ -1,0 +1,56 @@
+.main
+{
+   background:radial-gradient(orange,red,yellow);
+}
+.one
+{
+    text-align:center;
+    font-weight:bolder;
+    font-style:normal;
+}
+.sub
+{
+    background:radial-gradient(orange, red, yellow);
+}
+.two
+{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-size: medium;
+}
+.three
+{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-size: medium;
+}
+.four
+{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-size: medium;
+}
+.five
+{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-size: medium;
+}
+.six
+{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-size: medium;
+}
+.seven
+{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-size: medium;
+}
